@@ -37,13 +37,15 @@ Each folder inside will represent a different React Native app.
 
        npx react-native run-ios
 
+
 🌟 Future Plans
 
-  • Add more projects (Camera app, tictactoe etc.)
+     • Add more projects (Camera app, tictactoe etc.)
 
-  • Experiment with UI libraries (Tailwind, NativeBase)
+     • Experiment with UI libraries (Tailwind, NativeBase)
 
-  • Integrate APIs
+     • Integrate APIs
+
 
 📌 Author
 
