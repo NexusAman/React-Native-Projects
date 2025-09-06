@@ -23,27 +23,27 @@ Each folder inside will represent a different React Native app.
    git clone https://github.com/NexusAman/React-Native-Projects.git
 2. Navigate to a project folder
 
-    cd React-Native-Projects/Awesome01
+       cd React-Native-Projects/Awesome01
 
 3. Install dependencies
 
-    npm install
+       npm install
 
 4. Run on Android
 
-    npx react-native run-android
+       npx react-native run-android
 
 5. Run on iOS (Mac only)
 
-    npx react-native run-ios
+       npx react-native run-ios
 
 🌟 Future Plans
 
-    👉 Add more projects (Camera app, tictactoe etc.)
+  • Add more projects (Camera app, tictactoe etc.)
 
-    👉 Experiment with UI libraries (Tailwind, NativeBase)
+  • Experiment with UI libraries (Tailwind, NativeBase)
 
-    👉 Integrate APIs
+  • Integrate APIs
 
 📌 Author
 
